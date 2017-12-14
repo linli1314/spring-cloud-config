@@ -1,0 +1,4 @@
+service:
+  name: wo jia le version1
+server:
+  port: 8081
